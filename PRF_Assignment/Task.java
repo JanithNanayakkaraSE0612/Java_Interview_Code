@@ -1,16 +1,15 @@
 package PRF_Assignment;
 
+import java.util.Scanner;
+
 public class Task {
     public static void main(String[] args) {
-        int i ;
-        i=100;
-        int age = 20;
-        System.out.println(age);
-        int k =20;
-        int g =20;
-        int total = k+g;
-        System.out.println(total);
-        int x=10,y = 20;
-        System.out.println("X value is: "+ x +" Y value is: " + y);
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter is Ounce : " );
+        int ounce = scanner.nextInt();
+
+        double grams = ounce*28.3495;
+        System.out.println("Output is :"+grams);
+
     }
 }
