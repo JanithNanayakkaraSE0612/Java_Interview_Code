@@ -1,4 +1,4 @@
-package PRF_Assignment;
+package PRF_Assignment.TakeHomeAssignment;
 
 public class StarPattern01 {
     public static void main(String[] args) {
