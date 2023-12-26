@@ -21,5 +21,8 @@ public abstract class Abstraction {
     public int getNumber(){
         return number;
     }
+    public void setAddress(String newAddress){
+        name = newAddress;
+    }
     
 }
