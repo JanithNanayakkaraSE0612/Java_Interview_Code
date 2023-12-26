@@ -5,5 +5,11 @@ package OOP;
  */
 public class Encapsulate {
 
-    Private String name;
+    private String name;
+    private int age;
+    private double salary;
+
+    
+
+
 }
