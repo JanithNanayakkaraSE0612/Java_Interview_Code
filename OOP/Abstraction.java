@@ -1,5 +1,5 @@
 package OOP;
 
-public class Abstraction {
+public abstract class Abstraction {
     
 }
